@@ -28,7 +28,7 @@ By @Aioplus
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/aioplus")],
+        [InlineKeyboardButton("♥ YOUTUBE CHANNEL ♥", url=""https://www.youtube.com/c/NPTECHNOLOGY)],
         [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/aioplus")],
     ]
 
